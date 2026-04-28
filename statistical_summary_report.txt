@@ -1,0 +1,83 @@
+Overall stats
+
+Metric: Sales
+  - Total Count: 9994.0
+  - Average (Mean): 229.86
+  - Standard Deviation: 623.25
+  - Minimum: 0.44
+  - Median (50th percentile): 54.49
+  - Maximum: 22638.48
+
+Metric: Quantity
+  - Total Count: 9994.0
+  - Average (Mean): 3.79
+  - Standard Deviation: 2.23
+  - Minimum: 1.0
+  - Median (50th percentile): 3.0
+  - Maximum: 14.0
+
+Metric: Profit
+  - Total Count: 9994.0
+  - Average (Mean): 28.66
+  - Standard Deviation: 234.26
+  - Minimum: -6599.98
+  - Median (50th percentile): 8.67
+  - Maximum: 8399.98
+
+ Category stats
+
+- Furniture: Average Sales of $349.83 with Average Profit of $8.7.
+- Office Supplies: Average Sales of $119.32 with Average Profit of $20.33.
+- Technology: Average Sales of $452.71 with Average Profit of $78.75.
+
+ Region stats
+
+- Alabama: Average Sales of $319.85 with Average Profit of $94.87.
+- Arizona: Average Sales of $157.51 with Average Profit of $-15.3.
+- Arkansas: Average Sales of $194.64 with Average Profit of $66.81.
+- California: Average Sales of $228.73 with Average Profit of $38.17.
+- Colorado: Average Sales of $176.42 with Average Profit of $-35.87.
+- Connecticut: Average Sales of $163.22 with Average Profit of $42.82.
+- Delaware: Average Sales of $285.95 with Average Profit of $103.93.
+- District of Columbia: Average Sales of $286.5 with Average Profit of $105.96.
+- Florida: Average Sales of $233.61 with Average Profit of $-8.88.
+- Georgia: Average Sales of $266.83 with Average Profit of $88.32.
+- Idaho: Average Sales of $208.69 with Average Profit of $39.37.
+- Illinois: Average Sales of $162.94 with Average Profit of $-25.63.
+- Indiana: Average Sales of $359.43 with Average Profit of $123.38.
+- Iowa: Average Sales of $152.66 with Average Profit of $39.46.
+- Kansas: Average Sales of $121.43 with Average Profit of $34.85.
+- Kentucky: Average Sales of $263.25 with Average Profit of $80.57.
+- Louisiana: Average Sales of $219.45 with Average Profit of $52.29.
+- Maine: Average Sales of $158.82 with Average Profit of $56.81.
+- Maryland: Average Sales of $225.77 with Average Profit of $66.96.
+- Massachusetts: Average Sales of $212.11 with Average Profit of $50.26.
+- Michigan: Average Sales of $299.1 with Average Profit of $95.93.
+- Minnesota: Average Sales of $335.54 with Average Profit of $121.61.
+- Mississippi: Average Sales of $203.23 with Average Profit of $59.87.
+- Missouri: Average Sales of $336.44 with Average Profit of $97.52.
+- Montana: Average Sales of $372.62 with Average Profit of $122.22.
+- Nebraska: Average Sales of $196.45 with Average Profit of $53.61.
+- Nevada: Average Sales of $428.95 with Average Profit of $85.05.
+- New Hampshire: Average Sales of $270.09 with Average Profit of $63.2.
+- New Jersey: Average Sales of $275.11 with Average Profit of $75.18.
+- New Mexico: Average Sales of $129.28 with Average Profit of $31.27.
+- New York: Average Sales of $275.6 with Average Profit of $65.64.
+- North Carolina: Average Sales of $223.31 with Average Profit of $-30.08.
+- North Dakota: Average Sales of $131.42 with Average Profit of $32.88.
+- Ohio: Average Sales of $166.86 with Average Profit of $-36.19.
+- Oklahoma: Average Sales of $298.23 with Average Profit of $73.54.
+- Oregon: Average Sales of $140.57 with Average Profit of $-9.6.
+- Pennsylvania: Average Sales of $198.49 with Average Profit of $-26.51.
+- Rhode Island: Average Sales of $404.07 with Average Profit of $130.1.
+- South Carolina: Average Sales of $201.95 with Average Profit of $42.12.
+- South Dakota: Average Sales of $109.63 with Average Profit of $32.9.
+- Tennessee: Average Sales of $167.55 with Average Profit of $-29.19.
+- Texas: Average Sales of $172.78 with Average Profit of $-26.12.
+- Utah: Average Sales of $211.7 with Average Profit of $48.05.
+- Vermont: Average Sales of $811.76 with Average Profit of $204.09.
+- Virginia: Average Sales of $315.34 with Average Profit of $83.03.
+- Washington: Average Sales of $273.99 with Average Profit of $66.01.
+- West Virginia: Average Sales of $302.46 with Average Profit of $46.48.
+- Wisconsin: Average Sales of $291.95 with Average Profit of $76.38.
+- Wyoming: Average Sales of $1603.14 with Average Profit of $100.2.
