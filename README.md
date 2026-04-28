@@ -23,8 +23,8 @@ Before running this project, you must have the following installed on your syste
 ## Setup Instructions
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone git@github.com:SamiKazan/e-commerce-RAG-pipeline.git RAG_project
+cd RAG_project
 
 # Create the virtual environment
 python -m venv .venv
