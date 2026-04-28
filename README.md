@@ -13,7 +13,8 @@ This project implements a RAG pipeline to analyze e-commerce transaction data fr
 
 ## Prerequisites
 Before running this project, you must have the following installed on your system:
-1. **Python 3.9+** 2. **Ollama:** Download and install from [ollama.com](https://ollama.com). 
+1. **Python 3.9+** 
+2. **Ollama:** Download and install from [ollama.com](https://ollama.com). 
 
 ---
 
